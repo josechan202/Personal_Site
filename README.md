@@ -1,2 +1,2 @@
-# Personal_Site
+# jose-chan.com
 Resume/Personal
